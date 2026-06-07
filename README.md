@@ -14,5 +14,8 @@ An interactive stopwatch web application that allows users to start, pause, and 
 - CSS
 - JavaScript
 
+## Live Demo
+🔗 https://mohammednafi9720.github.io/SCT_WD_2/
+
 ## Author
 Mohammed Nafi E P
